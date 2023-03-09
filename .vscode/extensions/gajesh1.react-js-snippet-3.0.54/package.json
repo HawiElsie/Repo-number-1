@@ -1,0 +1,52 @@
+{
+	"name": "React-JS-Snippet",
+	"displayName": "JS Snippet",
+	"description": "Javascript, typescript, bootstrap, ES6, typescript-react, react, react-router code snippet.",
+	"version": "3.0.54",
+	"publisher": "Gajesh1",
+	"engines": {
+		"vscode": "^1.18.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "python",
+				"path": "./snippets/python.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6a151c57-4427-4602-ba7e-093246f59c9e",
+		"publisherId": "474969ca-75f0-4748-9658-30f3fdaafb00",
+		"publisherDisplayName": "Gajesh Panigrahi",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1677585935804,
+		"preRelease": false
+	}
+}

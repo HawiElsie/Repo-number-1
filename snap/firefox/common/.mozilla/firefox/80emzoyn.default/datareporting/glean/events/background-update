@@ -1,0 +1,2 @@
+{"timestamp":25819594,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-branch","branch":"control","experiment":"import-bookmarks-copy-and-segmentation"}}
+{"timestamp":26066761,"category":"nimbus_events","name":"unenrollment","extra":{"experiment":"window-modal-vs-tab-modal-survey","reason":"recipe-not-seen","branch":"treatment-b","enrollment_id":"d3b02240-6d86-40d6-9582-56d41445ba8f"}}

@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=hawiokatch@gmail.com
+Enabled=true
+Parent=919a042de7a669c5e4fa63fc72f1da511ff46263
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=hawiokatch@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

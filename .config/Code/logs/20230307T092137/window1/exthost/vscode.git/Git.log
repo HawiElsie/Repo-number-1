@@ -1,0 +1,18 @@
+2023-03-07 09:21:59.362 [info] Log level: Info
+2023-03-07 09:21:59.362 [info] Validating found git in: "git"
+2023-03-07 09:21:59.390 [info] Using git "2.39.2" from "git"
+2023-03-07 09:21:59.465 [info] > git rev-parse --show-toplevel [46ms]
+2023-03-07 09:21:59.483 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-03-07 09:21:59.513 [info] Open repository: /home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem
+2023-03-07 09:21:59.570 [info] > git rev-parse --show-toplevel [35ms]
+2023-03-07 09:21:59.619 [info] > git rev-parse --show-toplevel [34ms]
+2023-03-07 09:21:59.626 [info] > git config --get commit.template [58ms]
+2023-03-07 09:22:01.285 [info] > git check-ignore -v -z --stdin [1121ms]
+2023-03-07 09:22:01.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1642ms]
+2023-03-07 09:22:03.428 [info] > git status -z -uall [2131ms]
+2023-03-07 09:22:03.464 [info] > git config --get commit.template [3ms]
+2023-03-07 09:22:03.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-03-07 09:22:03.488 [info] > git status -z -uall [3ms]
+2023-03-07 09:24:44.973 [info] > git show --textconv :README.md [851ms]
+2023-03-07 09:24:44.975 [info] > git ls-files --stage -- /home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md [838ms]
+2023-03-07 09:24:44.987 [info] > git cat-file -s 36585709e786951af24c5fbd9e835875b7db44b5 [4ms]

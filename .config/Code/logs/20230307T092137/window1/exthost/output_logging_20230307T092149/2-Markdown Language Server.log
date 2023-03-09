@@ -1,0 +1,8 @@
+[Trace 06:24:50.078] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md
+[Trace 06:24:50.081] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md
+[Trace 06:24:50.091] Server: connection.languages.diagnostics.on: file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md
+[Trace 06:24:50.092] DocumentSymbolProvider: provideDocumentSymbols — file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md 1
+[Debug 06:24:50.093] LinkProvider: compute - file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md
+[Trace 06:24:50.146] Server: connection.languages.diagnostics.on: file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md
+[Debug 06:24:50.397] MdFoldingProvider: provideFoldingRanges — file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md 1
+[Debug 06:24:50.397] TableOfContentsProvider: create - file:///home/hawi/Development/code/phase0/phase-0-completing-assignments-learn-lab-gem/README.md

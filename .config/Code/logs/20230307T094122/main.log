@@ -1,0 +1,24 @@
+2023-03-07 09:41:23.183 [info] update#setState idle
+2023-03-07 09:41:26.046 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-07 09:41:26.076 [info] [UtilityProcess id: 1, type: extensionHost, pid: 16958]: successfully created
+2023-03-07 09:41:53.188 [info] update#setState checking for updates
+2023-03-07 09:41:53.373 [info] update#setState idle
+2023-03-07 10:41:53.246 [info] update#setState checking for updates
+2023-03-07 10:41:53.737 [info] update#setState idle
+2023-03-07 11:41:53.307 [info] update#setState checking for updates
+2023-03-07 11:41:54.085 [info] update#setState idle
+2023-03-07 12:41:53.353 [info] update#setState checking for updates
+2023-03-07 12:41:53.878 [info] update#setState idle
+2023-03-07 13:41:53.391 [info] update#setState checking for updates
+2023-03-07 13:41:54.006 [info] update#setState idle
+2023-03-07 14:41:53.412 [info] update#setState checking for updates
+2023-03-07 14:41:54.260 [info] update#setState idle
+2023-03-07 15:41:53.432 [info] update#setState checking for updates
+2023-03-07 15:41:53.906 [info] update#setState idle
+2023-03-07 16:41:53.451 [info] update#setState checking for updates
+2023-03-07 16:41:53.929 [info] update#setState idle
+2023-03-07 16:44:54.450 [info] [UtilityProcess id: 1, type: extensionHost, pid: 16958]: waiting to exit...
+2023-03-07 16:44:54.629 [info] [UtilityProcess id: 1, type: extensionHost, pid: 16958]: received exit event with code 0
+2023-03-07 16:44:54.630 [info] Extension host with pid 16958 exited with code: 0, signal: unknown.
+2023-03-07 16:44:56.526 [warning] [storage main] detected slow close() operation: Time: 2073ms, DB size: 20480b, Large Keys: __$__targetStorageMarker:972, workbench.view.debug.state:528, terminal.integrated.environmentVariableCollections:513, memento/workbench.parts.editor:309, workbench.panel.placeholderPanels:240
+2023-03-07 16:44:56.570 [warning] [storage main] detected slow close() operation: Time: 2120ms, DB size: 151552b, Large Keys: iconThemeData:90030, colorThemeData:9922, memento/experiment.service.memento:3427, workbench.activity.placeholderViewlets:2254, __$__targetStorageMarker:2141

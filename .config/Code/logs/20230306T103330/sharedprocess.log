@@ -1,0 +1,5 @@
+2023-03-06 10:33:56.309 [info] Starting worker process with pid 17757 (type: fileWatcher, window: 1).
+2023-03-06 10:33:59.186 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-06 10:33:59.639 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-03-06 10:33:59.693 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-03-06 10:34:04.354 [error] ptyHost was unable to resolve shell environment {}

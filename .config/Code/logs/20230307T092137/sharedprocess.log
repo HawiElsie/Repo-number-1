@@ -1,0 +1,10 @@
+2023-03-07 09:21:49.527 [info] Starting worker process with pid 12698 (type: fileWatcher, window: 1).
+2023-03-07 09:21:53.816 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-07 09:21:54.582 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-03-07 09:21:54.684 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-03-07 09:22:06.569 [info] Extension signature verification: ms-vscode-remote.remote-wsl. Verification status: Verified.
+2023-03-07 09:22:07.012 [info] Extracted extension to /home/hawi/.vscode/extensions/.3bb00927-f687-4e24-bcdf-2b3ddd52f682: ms-vscode-remote.remote-wsl
+2023-03-07 09:22:07.418 [info] Renamed to /home/hawi/.vscode/extensions/ms-vscode-remote.remote-wsl-0.76.1
+2023-03-07 09:22:07.422 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-03-07 09:22:07.812 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-03-07 09:22:07.825 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.75.3

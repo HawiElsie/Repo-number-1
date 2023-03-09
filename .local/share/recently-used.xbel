@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/hawi/Downloads/WhatSie/WhatsApp%20Image%202023-02-26%20at%2020.50.29.jpeg" added="2023-02-26T17:57:50.708638Z" modified="2023-02-26T17:57:50.708647Z" visited="2023-02-26T17:57:50.708639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-02-26T17:57:50.708643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/WhatSie/WhatsApp%20Image%202023-02-26%20at%2020.50.31.jpeg" added="2023-02-26T17:58:25.059145Z" modified="2023-02-26T17:58:25.059153Z" visited="2023-02-26T17:58:25.059147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-02-26T17:58:25.059149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/WhatSie/WhatsApp%20Image%202023-02-26%20at%2020.50.28.jpeg" added="2023-02-26T17:58:47.265797Z" modified="2023-02-26T17:58:47.265802Z" visited="2023-02-26T17:58:47.265798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-02-26T17:58:47.265800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/WhatSie/WhatsApp%20Image%202023-02-26%20at%2020.50.30.jpeg" added="2023-02-26T17:59:07.975249Z" modified="2023-02-26T17:59:07.975255Z" visited="2023-02-26T17:59:07.975250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-02-26T17:59:07.975252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/WhatSie/WhatsApp%20Image%202023-02-26%20at%2020.52.01.jpeg" added="2023-02-26T18:00:37.745832Z" modified="2023-02-26T18:00:37.745838Z" visited="2023-02-26T18:00:37.745833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-02-26T18:00:37.745835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/google-chrome-stable_current_amd64.deb" added="2023-02-26T18:04:48.227558Z" modified="2023-02-26T18:05:22.393760Z" visited="2023-02-26T18:04:48.227559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-02-26T18:05:22.393758Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-02-26T18:05:22.014902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/Downloads/code_1.75.1-1675893397_amd64.deb" added="2023-02-28T11:00:52.862910Z" modified="2023-02-28T11:00:52.862955Z" visited="2023-02-28T11:00:52.862921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2023-02-28T11:00:52.862940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rvm/log/1678042103_ruby-2.7.4/make.log" added="2023-03-05T19:09:23.082895Z" modified="2023-03-06T06:13:14.187029Z" visited="2023-03-05T19:09:23.082895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-06T06:13:11.508729Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:13:14.187027Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///bin/ssh-copy-id" added="2023-03-06T06:15:27.793310Z" modified="2023-03-06T06:15:27.793320Z" visited="2023-03-06T06:15:27.793312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:15:27.793317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/ssh-copy-id" added="2023-03-06T06:26:00.578831Z" modified="2023-03-06T06:26:01.229852Z" visited="2023-03-06T06:26:00.578832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-06T06:26:00.578835Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:26:01.229849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/bash-completion/completions/ssh-copy-id" added="2023-03-06T06:27:15.664805Z" modified="2023-03-06T06:27:17.896040Z" visited="2023-03-06T06:27:15.664806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-06T06:27:15.664809Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:27:17.896037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/man/man1/ssh-copy-id.1.gz" added="2023-03-06T06:27:51.303282Z" modified="2023-03-06T06:27:51.976235Z" visited="2023-03-06T06:27:51.303288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-06T06:27:51.303297Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-06T06:27:51.976233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/.cache/.fr-gSrO7c/ssh-copy-id.1" added="2023-03-06T06:27:54.375659Z" modified="2023-03-06T06:27:54.375673Z" visited="2023-03-06T06:27:54.375661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:27:54.375669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/.cache/.fr-kwPF2M/ssh-copy-id.1" added="2023-03-06T06:28:10.549404Z" modified="2023-03-06T06:28:10.549414Z" visited="2023-03-06T06:28:10.549405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-06T06:28:10.549410Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/my-git-project/README.md" added="2023-03-07T06:14:32.336646Z" modified="2023-03-07T06:14:34.756232Z" visited="2023-03-07T06:14:32.336647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-07T06:14:34.756228Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/package-lock.json" added="2023-03-07T06:31:19.450632Z" modified="2023-03-07T06:32:01.986362Z" visited="2023-03-07T06:31:19.450634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-03-07T06:31:19.450637Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-03-07T06:32:01.986356Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/README.md" added="2023-03-08T06:34:53.606594Z" modified="2023-03-08T06:34:53.606601Z" visited="2023-03-08T06:34:53.606595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-08T06:34:53.606597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hawi/phase-0-html-experiencing-html-lab/my_list.html" added="2023-03-08T14:57:21.406828Z" modified="2023-03-09T06:16:54.170578Z" visited="2023-03-08T14:57:21.406830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-09T06:08:32.451776Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2023-03-09T06:16:54.170570Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

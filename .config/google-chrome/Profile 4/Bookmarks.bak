@@ -1,0 +1,70 @@
+{
+   "checksum": "53cc8d4106ce19ee02bdc4996dd8afbb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13322578845529908",
+            "date_last_used": "13322735734271201",
+            "guid": "9b1fbb75-ca6b-4278-99ce-3440077eeae1",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Canvas",
+            "type": "url",
+            "url": "https://moringa.instructure.com/courses/248"
+         }, {
+            "date_added": "13322578961210130",
+            "date_last_used": "13322736053423049",
+            "guid": "189d498e-000d-47b3-a970-cbd4c1e6b58e",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/T0101L740P4/C04S146LDFA"
+         }, {
+            "date_added": "13322642345793271",
+            "date_last_used": "13322645225123605",
+            "guid": "949cb850-5543-400f-8bfa-05e140919481",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13321909170679759",
+         "date_last_used": "0",
+         "date_modified": "13322642345793271",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321909170679762",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321909170679763",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkAaN8qZPYFACEAaN8qZPYFADIYChYIAhGpUlE6ZPYFABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ29RSOmT2BQAR29RSOmT2BQAp3NRSOmT2BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkA/Zk1ZPYFABEA/Zk1ZPYFACm/YFE6ZPYFADCA+uesw8z9AroBAggBEgAgASoYd0hhRzdxTEYyVy9FSW4rNGdmNHpYdz09EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad0txNGtmNkNIVkJrOHRUM2JXZ3NWcEl5QVpUVDFOMGVYOXdjVnprUzFQRVdiNjVubFpDakFCOWVUSllKQzJtNHlPRUF5Tlp6UWlCMjA2ZDFLdXQwSWxsT1g5eWc9PRgAIAAoADDHssup57P9AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAoS5gEKHHphdWFjamtiaVhSUVBPOHIxaHU0d2tUc081dz0SZlo6QURxdEFad2FTc1FaRGM4R21uZW11U24xNm9OQnZWNWsrelBHMytoMHF4L3E4QlJucDJHOHdOV2ErZkdEZFhlMVI3MGNsb3NmR3M4cW55c1h6ejRraE1NaEs2QjRublF2b2c9PRgAIA4oDjDgzvy8scz9Ajjm9v626zBA++O2iuwwShxTWTBYdWQxUG5iQUE3QkJoKzNCMXpMbnZoT2s9Wh4iHElNMXNIWnhsNEpIbVJJYzczRWc1eUtMNmNIWT1lAIuqUxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnozaDhFZHN3SEZMaDN5bVJEcVN4VG5qR2s4V3hoY09EamVPRjNXcER2RW9YTm1rMXJ1OUVmbEppSVBoZTFjQzloSXVJUEV6TG9Kakh4eGhxS1dVRTV3TlRuUjN3PT0YACAAKAAwx7LLqeez/QI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnpzQSs5VUZPcVVGYmJsNmJOMC9yaGZaT2hWeGdvVytvbkFaRE5neVlsa0d3ZnBvdC9yNndDeTFweFBmdHo0VjQwSllRcmgYACAAKAAwx7LLqeez/QI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLrAQgMEuYBChxKODVyRzlqVWh6aXpjeFBJN2k0M0pqUC9Cb3M9EmZaOkFEcXRBWndhU3NRWkRjOEdtbmVtdVNuMTZvTkJrcTVtcms3SmFOMTdhWjJZUXhhSGVrL0wrNnpqTU9DMndzVEFHYVRvamVlMzVxMzQ3MVp1OVladEtIQjFKSzl6SUNBTEVRPT0YACACKAIwp5zj4JHJ/QI46c6b1eswQIzPm9XrMEocZ291N1M3eTRTUWpNdFpHZ3NSSE9PM2E0djZzPVoeIhxqV3hLWXdUSUZmYW1TeHBDL1dld2Vzd1RqZ289ZSjQ4akS6wEICRLmAQocODBWczhjZmxLU3ZPOStMVG5pME5BTjNSS0NNPRJmWjpBRHF0QVp3YVNzUVpEYzhHbW5lbXVTbjE2b05CRDZ3aFdtQ0VRb2YxTTFEckp2M2gvNUJCOEg2NHAydzFieEZTMDU1UlRQVWZ5N3hhNy9pSjVnK0hzakwvOG5YRjh0T2kzUT09GAAgAygDMOrnhZ6lx/0CONvu97brMECvufi26zBKHG1QS0krcTVaM2JYbjdWTmUxdFNXSytHS2plTT1aHiIcN0hlN3V5YlRxS2tvaG8yL2E4ZmtUa2RhWDFvPWUdqfK1MAE4AA==",
+   "version": 1
+}

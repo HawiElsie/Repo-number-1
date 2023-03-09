@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=hawiokatch@gmail.com
+Enabled=true
+Parent=919a042de7a669c5e4fa63fc72f1da511ff46263
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=962211ea435c136bae4fe604e80269a54476357b
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=hawiokatch@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

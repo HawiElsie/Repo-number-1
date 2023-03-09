@@ -1,0 +1,3 @@
+https:www.mozilla.org:443:.:^partitionKey=%28https%2Cmozilla.org%29:3	0	19418	https:www.mozilla.org:443:www.mozilla.org:443::n:1680366214:h3:y:1677774196:n:^partitionKey=%28https%2Cmozilla.org%29:|n:y:
+https:autoconfig.thunderbird.net:443:.::3	0	19418	https:autoconfig.thunderbird.net:443:autoconfig.thunderbird.net:443::n:1677860608:h3:y:1677774196:n::|n:y:
+https:live.thunderbird.net:443:.::3	0	19418	https:live.thunderbird.net:443:live.thunderbird.net:443::n:1677860608:h3:y:1677774196:n::|n:y:

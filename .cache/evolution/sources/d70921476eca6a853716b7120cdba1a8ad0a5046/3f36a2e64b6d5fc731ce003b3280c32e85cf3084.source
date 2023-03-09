@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=My Tasks
+Enabled=true
+Parent=d70921476eca6a853716b7120cdba1a8ad0a5046
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=hawiokatch@gmail.com
+CredentialName=
+IsExternal=false
+
+[Resource]
+Identity=gtasks::MTczNTM0NDk5NTM4ODQxMTg3NzM6MDow
+
+[Alarms]
+IncludeMe=false
+LastNotified=
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true
+Order=0

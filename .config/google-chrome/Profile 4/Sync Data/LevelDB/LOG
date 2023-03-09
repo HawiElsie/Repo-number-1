@@ -1,0 +1,6 @@
+2023/03/09-08:41:51.944 12fc Reusing MANIFEST /home/hawi/.config/google-chrome/Profile 4/Sync Data/LevelDB/MANIFEST-000001
+2023/03/09-08:41:52.414 12fc Recovering log #50
+2023/03/09-08:41:52.624 12fc Reusing old log /home/hawi/.config/google-chrome/Profile 4/Sync Data/LevelDB/000050.log 
+2023/03/09-09:34:43.633 1a58 Level-0 table #55: started
+2023/03/09-09:34:46.450 1a58 Level-0 table #55: 116042 bytes OK
+2023/03/09-09:34:46.860 1a58 Delete type=0 #50

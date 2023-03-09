@@ -1,0 +1,6 @@
+2023/03/05-20:30:25.347 aa2 Creating DB /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_www.phusionpassenger.com_0.indexeddb.leveldb since it was missing.
+2023/03/05-20:30:25.415 aa2 Reusing MANIFEST /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_www.phusionpassenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/05-20:50:10.000 1262d Level-0 table #5: started
+2023/03/05-20:50:10.398 1262d Level-0 table #5: 812 bytes OK
+2023/03/05-20:50:10.856 1262d Delete type=0 #3
+2023/03/05-20:50:10.857 1262d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/03/08-08:52:56.566 e01 Reusing MANIFEST /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-08:52:56.566 e01 Recovering log #24
+2023/03/08-08:52:57.777 e01 Reusing old log /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000024.log 
+2023/03/08-08:53:08.500 e02 Level-0 table #30: started
+2023/03/08-08:53:08.752 e02 Level-0 table #30: 2219180 bytes OK
+2023/03/08-08:53:09.188 e02 Delete type=0 #24

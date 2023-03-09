@@ -1,0 +1,48 @@
+[Data Source]
+DisplayName=Holidays in Kenya
+Enabled=true
+Parent=d70921476eca6a853716b7120cdba1a8ad0a5046
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=hawiokatch@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=events::https://apidata.googleusercontent.com/caldav/v2/cln2qpr25plma8r8dtm6ip31f506esjfelo2sthecdgmopbechgn4bj7dtnmer355phmur8%40virtual/events/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=true
+Color=#16a765
+DisplayName=Holidays in Kenya
+EmailAddress=
+ResourcePath=/caldav/v2/cln2qpr25plma8r8dtm6ip31f506esjfelo2sthecdgmopbechgn4bj7dtnmer355phmur8%40virtual/events/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Calendar]
+BackendName=caldav
+Color=#16a765
+Selected=true
+Order=0
+
+[Alarms]
+IncludeMe=true
+LastNotified=2023-02-27T17:55:28.903237Z
+
+[Offline]
+StaySynchronized=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30

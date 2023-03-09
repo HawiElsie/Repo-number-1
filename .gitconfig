@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Elsie
+	email = hawiokatch@gmail.com
+[init]
+	defaultBranch = main

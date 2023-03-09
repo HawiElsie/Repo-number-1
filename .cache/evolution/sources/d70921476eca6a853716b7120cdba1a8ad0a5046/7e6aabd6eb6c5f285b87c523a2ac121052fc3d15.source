@@ -1,0 +1,35 @@
+[Data Source]
+DisplayName=Address Book
+Enabled=true
+Parent=d70921476eca6a853716b7120cdba1a8ad0a5046
+
+[Authentication]
+Host=www.googleapis.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=hawiokatch@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=contacts::https://www.googleapis.com/carddav/v1/principals/hawiokatch@gmail.com/lists/default/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Address Book
+EmailAddress=
+ResourcePath=/carddav/v1/principals/hawiokatch@gmail.com/lists/default/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Address Book]
+BackendName=carddav
+Order=0

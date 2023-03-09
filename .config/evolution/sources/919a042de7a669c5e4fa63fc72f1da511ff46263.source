@@ -1,0 +1,31 @@
+[Data Source]
+DisplayName=hawiokatch@gmail.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=none
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=e8b14665462d3c88
+MailEnabled=true
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1677432221_1
+CalendarUrl=
+ContactsUrl=
+Name=
+Address=hawiokatch@gmail.com

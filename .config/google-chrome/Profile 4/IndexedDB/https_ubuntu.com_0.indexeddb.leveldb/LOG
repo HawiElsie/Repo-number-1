@@ -1,0 +1,6 @@
+2023/03/01-11:07:45.311 18f8 Creating DB /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_ubuntu.com_0.indexeddb.leveldb since it was missing.
+2023/03/01-11:07:45.379 18f8 Reusing MANIFEST /home/hawi/.config/google-chrome/Profile 4/IndexedDB/https_ubuntu.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-11:11:30.806 b54 Level-0 table #5: started
+2023/03/01-11:11:30.829 b54 Level-0 table #5: 833 bytes OK
+2023/03/01-11:11:30.862 b54 Delete type=0 #3
+2023/03/01-11:11:30.863 b54 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

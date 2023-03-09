@@ -1,0 +1,6 @@
+2023/03/09-08:41:51.945 3 Reusing MANIFEST /home/hawi/.config/google-chrome/Profile 4/Local Storage/leveldb/MANIFEST-000001
+2023/03/09-08:41:51.947 3 Recovering log #49
+2023/03/09-08:41:52.209 3 Reusing old log /home/hawi/.config/google-chrome/Profile 4/Local Storage/leveldb/000049.log 
+2023/03/09-09:24:55.054 3 Level-0 table #54: started
+2023/03/09-09:24:55.151 3 Level-0 table #54: 36764 bytes OK
+2023/03/09-09:24:55.230 3 Delete type=0 #49

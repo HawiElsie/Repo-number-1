@@ -1,0 +1,1125 @@
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html class="windows no-js" lang="en" dir="ltr" data-country-code="CY" data-latest-firefox="110.0" data-esr-versions="102.8.0" data-gtm-container-id="GTM-MW3R8V"  data-stub-attribution-rate="1.0" data-convert-project-id="10039-1003343" data-sentry-dsn="https://c3ab8514873549d5b3785ebc7fb83c80@o1069899.ingest.sentry.io/6260331" >
+  <head>
+    <meta charset="utf-8">
+
+    <!--[if !IE]><!-->
+    <script src="https://www.mozilla.org/media/js/site.9dae3c1ee5a8.js"></script>
+
+    
+    <!--<![endif]-->
+
+<!--
+
+
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://www.mozilla.org/careers to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.
+-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    
+    <title>Firefox Privacy Notice — Mozilla</title>
+    <meta name="description" content="
+  Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.mozilla.org/en-US/privacy/firefox/">
+    <meta property="og:image" content="https://www.mozilla.org/media/img/mozorg/mozilla-256.4720741d4108.jpg">
+    <meta property="og:title" content="Firefox Privacy Notice">
+    <meta property="og:description" content="
+  Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+">
+    <meta property="fb:page_id" content="262134952380">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@mozilla">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.mozilla.org/media/img/favicons/mozilla/apple-touch-icon.8cbe9c835c00.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://www.mozilla.org/media/img/favicons/mozilla/favicon-196x196.2af054fea211.png">
+    <link rel="shortcut icon" href="https://www.mozilla.org/media/img/favicons/mozilla/favicon.d25d81d39065.ico">
+    
+
+    <link rel="canonical" href="https://www.mozilla.org/en-US/privacy/firefox/">
+    <link rel="alternate" hreflang="x-default" href="https://www.mozilla.org/privacy/firefox/">
+    <link rel="alternate" hreflang="cs" href="https://www.mozilla.org/cs/privacy/firefox/" title="Čeština">
+        <link rel="alternate" hreflang="de" href="https://www.mozilla.org/de/privacy/firefox/" title="Deutsch">
+        <link rel="alternate" hreflang="en" href="https://www.mozilla.org/en-US/privacy/firefox/" title="English">
+        <link rel="alternate" hreflang="en-US" href="https://www.mozilla.org/en-US/privacy/firefox/" title="English (USA)">
+        <link rel="alternate" hreflang="es" href="https://www.mozilla.org/es-ES/privacy/firefox/" title="Español">
+        <link rel="alternate" hreflang="es-ES" href="https://www.mozilla.org/es-ES/privacy/firefox/" title="Español (de España)">
+        <link rel="alternate" hreflang="fr" href="https://www.mozilla.org/fr/privacy/firefox/" title="Français">
+        <link rel="alternate" hreflang="hu" href="https://www.mozilla.org/hu/privacy/firefox/" title="magyar">
+        <link rel="alternate" hreflang="id" href="https://www.mozilla.org/id/privacy/firefox/" title="Bahasa Indonesia">
+        <link rel="alternate" hreflang="it" href="https://www.mozilla.org/it/privacy/firefox/" title="Italiano">
+        <link rel="alternate" hreflang="ja" href="https://www.mozilla.org/ja/privacy/firefox/" title="日本語">
+        <link rel="alternate" hreflang="nl" href="https://www.mozilla.org/nl/privacy/firefox/" title="Nederlands">
+        <link rel="alternate" hreflang="pl" href="https://www.mozilla.org/pl/privacy/firefox/" title="Polski">
+        <link rel="alternate" hreflang="pt-BR" href="https://www.mozilla.org/pt-BR/privacy/firefox/" title="Português (do Brasil)">
+        <link rel="alternate" hreflang="ru" href="https://www.mozilla.org/ru/privacy/firefox/" title="Русский">
+        <link rel="alternate" hreflang="zh" href="https://www.mozilla.org/zh-CN/privacy/firefox/" title="中文">
+          <link rel="alternate" hreflang="zh-CN" href="https://www.mozilla.org/zh-CN/privacy/firefox/" title="中文 (简体)">
+          
+    
+
+    
+
+    <!--[if lt IE 9]>
+      
+      <script src="https://www.mozilla.org/media/js/ie/libs/html5shiv.a94a0b700fa2.js"></script>
+    <![endif]-->
+
+    <!--[if IE]>
+      
+      
+        <link href="https://www.mozilla.org/media/css/common-old-ie.2b7237eab54c.css" rel="stylesheet" type="text/css">
+      
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    
+    
+  <link href="https://www.mozilla.org/media/css/protocol-mozilla.a26dd99a9786.css" rel="stylesheet" type="text/css">
+
+
+    
+    
+  <link href="https://www.mozilla.org/media/css/privacy_protocol.415c9895ffa7.css" rel="stylesheet" type="text/css">
+
+    <!--<![endif]-->
+
+    
+      
+    
+
+    
+    
+  </head>
+
+  <body class="html-ltr mzp-t-mozilla format-headings" >
+    <div id="strings"
+      data-global-close="Close"
+      data-global-next="Next"
+      data-global-previous="Previous"
+      
+  data-choices-copy="Choose how you want to share this data in Firefox."
+  data-choices-button="Choose…"
+></div>
+
+    
+      
+
+
+
+  
+
+
+<div class="c-navigation top-header-navigation mzp-is-sticky">
+  <div class="c-navigation-l-content">
+    <div class="c-navigation-container">
+      <button class="c-navigation-menu-button" type="button" aria-controls="c-navigation-items">Menu</button>
+      <div class="c-navigation-logo">
+        <a href="/en-US/" data-link-name="mozilla home icon" data-link-type="nav">
+          <img class="c-navigation-logo-image" src="https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg" alt="Mozilla" width="112" height="32">
+        </a>
+      </div>
+
+      <div class="c-navigation-items" id="c-navigation-items">
+        
+
+
+  <div class="c-navigation-shoulder">
+    
+      
+        
+
+<div id="protocol-nav-download-firefox" class="mzp-c-button-download-container c-button-download-thanks">
+  <!--[if !IE]><!-->
+  <a href="/firefox/download/thanks/"
+     class="download-link mzp-c-button mzp-t-product mzp-t-secondary mzp-t-md"
+     data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US"
+     data-link-type="download"
+     data-download-location="nav">
+    
+      Download Firefox
+    
+  </a>
+  <!--<![endif]-->
+
+  
+  <!--[if IE]>
+    <a href="https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US"
+      class="download-link mzp-c-button mzp-t-product mzp-t-secondary mzp-t-md"
+      data-link-type="download" data-download-os="Desktop" data-display-name="Windows 32-bit" data-download-version="win"
+      data-download-location="nav">
+      
+        Download Firefox
+      
+    </a>
+  <![endif]-->
+
+  <small class="mzp-c-button-download-privacy-link">
+    <a href="/en-US/privacy/firefox/">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+      
+      
+      <div class="c-navigation-vpn-cta-container">
+        <a href="/en-US/products/vpn/#pricing" class="mzp-c-button js-fxa-product-referral-link mzp-t-product mzp-t-secondary mzp-t-md" data-referral-id="navigation" data-cta-text="Get Mozilla VPN" data-cta-type="button" data-cta-position="navigation">Get Mozilla VPN</a>
+      </div>
+      
+    
+  </div>
+
+        <div class="c-navigation-menu">
+          <nav class="c-menu mzp-is-basic">
+            <ul class="c-menu-category-list">
+              
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/firefox/browsers/" aria-haspopup="true" aria-controls="c-menu-panel-firefox">Firefox Browsers</a>
+  <div class="c-menu-panel" id="c-menu-panel-firefox">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-firefox">Close Firefox Browsers menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-four">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/new/" data-link-name="Firefox Desktop Browser" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox for Desktop</h4>
+                <p class="c-menu-item-desc">Get the not-for-profit-backed browser on Windows, Mac or Linux.</p>
+              </a>
+            </section>
+          </li>
+        
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/android/" data-link-name="Firefox for Android" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox for Android</h4>
+                <p class="c-menu-item-desc">Get the customizable mobile browser for Android smartphones.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/ios/" data-link-name="Firefox for iOS" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox for iOS</h4>
+                <p class="c-menu-item-desc">Get the mobile browser for your iPhone or iPad.</p>
+              </a>
+            </section>
+          </li>
+        
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/focus/" data-link-name="Firefox Focus" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/focus/logo.aac3e33175cb.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox Focus</h4>
+                <p class="c-menu-item-desc">Simply private mobile browsing.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/privacy/" data-link-name="Privacy Promise" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/img/nav/icons/icon-privacy-promise.eee1662acb03.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Privacy Promise</h4>
+                <p class="c-menu-item-desc">Learn how Firefox treats your data with respect.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://blog.mozilla.org/firefox/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Firefox Blog" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M21.1 7.5c-.2-.2-.2-.5 0-.7l.5-.5c.8-.8 2.1-.8 2.9 0l1.2 1.2c.8.8.8 2.1 0 2.9l-.5.5c-.2.2-.5.2-.7 0l-3.4-3.4zm2.3 4.5c.2.2.2.5 0 .7L12.7 23.4c-.2.2-.4.3-.6.4l-5.7 2.4c-.3.1-.6 0-.7-.3-.1-.1-.1-.3 0-.4L8.1 20c.1-.2.3-.5.4-.6L19.2 8.6c.2-.2.5-.2.7 0l3.5 3.4zM11.5 22.7l-3.9 1.7 1.7-3.9c0-.1.1-.2.2-.2l2.3 2.3c-.1 0-.2.1-.3.1z"></path></svg>
+                <h4 class="c-menu-item-title">Firefox Blog</h4>
+                <p class="c-menu-item-desc">Read about new Firefox features and ways to stay safe online.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/firefox/110.0/releasenotes/" data-link-name="Release Notes" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M2.7 23.6c0 2.4 2 4.4 4.4 4.4h5.6c1.4 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c2.4 0 4.4-2 4.4-4.4V8.4c0-2.4-2-4.4-4.4-4.4h-5.6C18 4 17 4.2 16 5.2c-1-1-2-1.2-3.3-1.2H7.1C4.6 4 2.7 6 2.7 8.4v15.2zm24 0c0 1-.8 1.7-1.7 1.7h-5.6c-1.3 0-2.3.2-3.3 1.2-1-1-2-1.2-3.3-1.2H7.1c-1 0-1.7-.8-1.7-1.7V8.4c0-1 .8-1.7 1.7-1.7h5.6c1.3 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c1 0 1.7.8 1.7 1.7v15.2zM13.3 10.7H8c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h5.3c.4 0 .7.3.7.7 0 .4-.3.7-.7.7zm-5.3 4h5.3c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7zm5.3 4H8c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h5.3c.4 0 .7.3.7.7s-.3.7-.7.7zm-5.3 4h3.4c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7z"></path></svg>
+                <h4 class="c-menu-item-title">Release Notes</h4>
+              
+                <p class="c-menu-item-desc">Get the details on the latest Firefox updates.</p>
+              
+              </a>
+            </section>
+          </li>
+        </ul>
+        <p class="c-menu-category-link"><a href="/en-US/firefox/browsers/" data-link-name="View all Firefox Browsers" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">View all Firefox Browsers</a></p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close firefox -->
+              
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/firefox/products/" aria-haspopup="true" aria-controls="c-menu-panel-products">Products</a>
+  <div class="c-menu-panel" id="c-menu-panel-products">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-products">Close Products menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-four">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://monitor.firefox.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-name="Firefox Monitor" data-link-type="nav" data-link-position="topnav" data-link-group="products">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/monitor/logo.d97e5516f9e6.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox Monitor</h4>
+                <p class="c-menu-item-desc">See if your email has appeared in a company’s data breach.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/facebookcontainer/" data-link-name="Facebook Container" data-link-type="nav" data-link-position="topnav" data-link-group="products">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#f80073" d="M27 1H5C2.8 1 1 2.8 1 5v22c0 2.2 1.8 4 4 4h22c2.2 0 4-1.8 4-4V5c0-2.2-1.8-4-4-4z"></path><path fill="#fff" d="M26 8.8l-1.4-1.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8h-2.3V8.9L19 7.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8h-2.3V8.9l-1.4-1.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8H9.2V8.9L7.8 7.4c-.1-.1-.2-.1-.3 0L6 8.8l-.1.1v15c0 .1.1.2.2.2H9c.1 0 .2-.1.2-.2v-2.8h2.3V24c0 .1.1.2.2.2h2.8c.1 0 .2-.1.2-.2v-2.8H17V24c0 .1.1.2.2.2H20c.1 0 .2-.1.2-.2v-2.8h2.3V24c0 .1.1.2.2.2h2.8c.1 0 .2-.1.2-.2V9c.4-.1.3-.2.3-.2zm-14.7 11H9.2v-6.6h2.3v6.6h-.2zm5.6 0h-2.1v-6.6h2.3v6.6h-.2zm5.7 0h-2.1v-6.6h2.3v6.6h-.2z"></path></svg>
+                <h4 class="c-menu-item-title">Facebook Container</h4>
+              
+                <p class="c-menu-item-desc">Help prevent Facebook from collecting your data outside their site.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-name="Pocket" data-link-type="nav" data-link-position="topnav" data-link-group="products">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/pocket/logo.17446bc33a5d.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Pocket</h4>
+                <p class="c-menu-item-desc">Save and discover the best stories from across the web.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/products/vpn/" data-link-name="Mozilla VPN" data-link-type="nav" data-link-position="topnav" data-link-group="products">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M26 10.4c-2.5 0-4.7 1.7-5.4 4h-9.3c-.1-.4-.3-.7-.4-1.1l2.4-2.4c.8.4 1.7.7 2.7.7 3.1 0 5.6-2.5 5.6-5.6S19.1.4 16 .4 10.4 2.9 10.4 6c0 1 .2 1.9.7 2.7l-2.4 2.4c-.8-.5-1.7-.7-2.7-.7C2.9 10.4.4 12.9.4 16s2.5 5.6 5.6 5.6c2.5 0 4.7-1.7 5.4-4h9.3c.1.4.3.7.4 1.1l-2.4 2.4c-.8-.4-1.7-.7-2.7-.7-3.1 0-5.6 2.5-5.6 5.6s2.5 5.6 5.6 5.6 5.6-2.5 5.6-5.6c0-1-.2-1.9-.7-2.7l2.4-2.4c.8.4 1.7.7 2.7.7 3.1 0 5.6-2.5 5.6-5.6s-2.5-5.6-5.6-5.6zM16 3.6c1.3 0 2.4 1.1 2.4 2.4S17.3 8.4 16 8.4 13.6 7.3 13.6 6s1.1-2.4 2.4-2.4zM6 18.4c-1.3 0-2.4-1.1-2.4-2.4s1.1-2.4 2.4-2.4c1.3 0 2.4 1.1 2.4 2.4S7.3 18.4 6 18.4zm10 10c-.5 0-1-.2-1.3-.4-.3-.2-.5-.4-.6-.6-.3-.4-.4-.8-.4-1.3s.2-1 .4-1.3c.2-.3.4-.5.6-.6.4-.3.8-.4 1.3-.4 1.3 0 2.4 1.1 2.4 2.4s-1.1 2.2-2.4 2.2zm10-10c-1.3 0-2.4-1.1-2.4-2.4s1.1-2.4 2.4-2.4 2.4 1.1 2.4 2.4-1.1 2.4-2.4 2.4z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla VPN</h4>
+                <p class="c-menu-item-desc">Get protection beyond your browser, on all your devices.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/privacy/products/" data-link-name="Hubs" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M27.3 7.6c0-1.5-1.1-2.8-2.6-3L16 3.1 7.2 4.6c-1.5.2-2.6 1.5-2.6 3 0 2.4 0 5.5.2 7 .4 4.5 1.3 7 3.5 9.8 1.9 2.4 4.6 4 7.6 4.4h.4c3-.5 5.7-2 7.6-4.4 2.2-2.8 3-5.3 3.5-9.8-.1-1.6-.1-5.1-.1-7zm-2.9 6.7c-.4 4-1.1 6-2.9 8.4-1.4 1.7-3.3 2.9-5.5 3.3-2.2-.4-4.1-1.6-5.5-3.3-1.8-2.4-2.5-4.4-2.9-8.4-.1-1.1-.1-3.5-.1-6.7 0-.1.1-.2.2-.2L16 6l8.3 1.4c.1 0 .2.1.2.2 0 3.2 0 5.7-.1 6.7zm-13.9-.2c0-.4-.1-1.5-.1-4.3l5.6-.9v14.2c-1.3-.3-2.4-1.1-3.2-2.1-1.4-1.8-2-3.1-2.3-6.9z"></path></svg>
+                <h4 class="c-menu-item-title">Product Promise</h4>
+              
+                <p class="c-menu-item-desc">Learn how each Firefox product protects and respects your data.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://relay.firefox.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-name="Firefox Relay" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/relay/logo.683083c53b93.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox Relay</h4>
+              
+                <p class="c-menu-item-desc">Sign up for new accounts without handing over your email address.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://fpn.firefox.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-name="Hubs" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <img src="https://www.mozilla.org/media/img/nav/icons/icon-fpn-beta.9e7bc3a29f6e.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox Private Network (beta)</h4>
+              
+                <p class="c-menu-item-desc">Protect your browser’s connection to the internet.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://developer.mozilla.org/en-US/plus?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-name="MDN Plus" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <img src="https://www.mozilla.org/media/img/nav/icons/icon-mdn-plus.f54475f980ab.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">MDN Plus</h4>
+              
+                <p class="c-menu-item-desc">New features and tools for a customized MDN experience</p>
+              
+              </a>
+            </section>
+          </li>
+        </ul>
+        <p class="c-menu-category-link"><a href="/en-US/firefox/products/" data-link-name="View all Products" data-link-type="nav" data-link-position="topnav" data-link-group="products">View all Products</a></p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close products -->
+              
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/about/" aria-haspopup="true" aria-controls="c-menu-panel-about">Who We Are</a>
+  <div class="c-menu-panel" id="c-menu-panel-about">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-about">Close Who We Are menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-four">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/about/manifesto/" data-link-name="Mozilla Manifesto" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M9.5 28.6h13.1c2.6 0 4.6-2.1 4.6-4.6V8.1c0-2.6-2.1-4.6-4.6-4.6H9.5c-2.6 0-4.6 2.1-4.6 4.6V24c-.1 2.5 2 4.6 4.6 4.6zM7.6 8.1c0-1 .8-1.8 1.8-1.8h13.1c1 0 1.8.8 1.8 1.8V24c0 1-.8 1.8-1.8 1.8h-13c-1 0-1.8-.8-1.8-1.8V8.1zm12.6 2.3h-8.4c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h8.4c.4 0 .7.3.7.7 0 .4-.3.7-.7.7zm-8.4 4.2h8.4c.4 0 .7-.3.7-.7s-.3-.7-.7-.7h-8.4c-.4 0-.7.3-.7.7s.3.7.7.7zm8.4 4.2h-8.4c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h8.4c.4 0 .7.3.7.7s-.3.7-.7.7zM11.8 23h3.6c.4 0 .7-.3.7-.7s-.3-.7-.7-.7h-3.6c-.4 0-.7.3-.7.7s.3.7.7.7z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Manifesto</h4>
+              
+                <p class="c-menu-item-desc">Learn about the values and principles that guide our mission.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=who-we-are" data-link-name="Mozilla Foundation" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M16 9.3V4H2.7v24h26.7V9.3H16zm-8 16H5.3v-2.7H8v2.7zM8 20H5.3v-2.7H8V20zm0-5.3H5.3V12H8v2.7zm0-5.4H5.3V6.7H8v2.6zm5.3 16h-2.7v-2.7h2.7v2.7zm0-5.3h-2.7v-2.7h2.7V20zm0-5.3h-2.7V12h2.7v2.7zm0-5.4h-2.7V6.7h2.7v2.6zm13.4 16H16v-2.7h2.7V20H16v-2.7h2.7v-2.7H16V12h10.7v13.3zM24 14.7h-2.7v2.7H24v-2.7zm0 5.3h-2.7v2.7H24V20z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Foundation</h4>
+                <p class="c-menu-item-desc">Meet the not-for-profit behind Firefox that stands for a better web.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/contribute/" data-link-name="Get Involved" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M12 22.7l4-3.9c-.5-.1-.9-.1-1.3-.1C11.1 18.7 4 20.5 4 24v2.7h12l-4-4zm2.7-6.7c2.9 0 5.3-2.4 5.3-5.3s-2.4-5.3-5.3-5.3-5.3 2.4-5.3 5.3c-.1 2.9 2.3 5.3 5.3 5.3z"></path><path fill="#42435a" d="M20.6 27.3L16 22.7l1.9-1.9 2.8 2.8 6.8-6.9 1.9 1.9-8.8 8.7z"></path></svg>
+                <h4 class="c-menu-item-title">Get involved</h4>
+                <p class="c-menu-item-desc">Join the fight for a healthy internet.</p>
+              </a>
+            </section>
+          </li>
+           <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/stories/" data-link-name="Stories Blog" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+               <svg class="c-menu-item-icon" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(2 1.87868)"><path d="m8.3.4h-7c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h9l2 4 2-4h2c1.1 0 2-.9 2-2v-6"/><path d="m14.8-.1c.8-.8 2.2-.8 3 0s.8 2.2 0 3l-7.5 7.5-4 1 1-4z"/></g></svg>
+                <h4 class="c-menu-item-title">Stories</h4>
+              
+                <p class="c-menu-item-desc">Stories about how our people and products are changing the world for the better.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/about/leadership/" data-link-name="Leadership" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M22.7 13.9V2.7H9.3v11.2c0 .5.2.9.7 1.1l5.6 3.3-1.3 3.1-4.5.4 3.5 3-1.1 4.4L16 27l3.9 2.4-1-4.4 3.5-3-4.5-.4-1.3-3.1 5.6-3.3c.2-.4.5-.8.5-1.3zm-5.4 2.4l-1.3.8-1.3-.8V4h2.7v12.3z"></path></svg>
+                <h4 class="c-menu-item-title">Leadership</h4>
+              
+                <p class="c-menu-item-desc">Meet the team that’s building technology for a better internet.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/careers/" data-link-name="Careers" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32"><path fill="#42435a" d="M13.3 21.3V20H4v5.3C4 26.8 5.2 28 6.7 28h18.7c1.5 0 2.7-1.2 2.7-2.7V20h-9.3v1.3h-5.5zm13.4-12h-5.3V6.7L18.7 4h-5.3l-2.7 2.7v2.7H5.3c-1.5 0-2.7 1.2-2.7 2.7v4c0 1.5 1.2 2.7 2.7 2.7h8V16h5.3v2.7h8c1.5 0 2.7-1.2 2.7-2.7v-4c0-1.5-1.2-2.7-2.6-2.7zm-8 0h-5.3V6.7h5.3v2.6z"></path></svg>
+                <h4 class="c-menu-item-title">Careers</h4>
+                <p class="c-menu-item-desc">Work for a mission-driven organization that makes people-first products.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://blog.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=who-we-are" data-link-name="Mozilla Blog" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M21.1 7.5c-.2-.2-.2-.5 0-.7l.5-.5c.8-.8 2.1-.8 2.9 0l1.2 1.2c.8.8.8 2.1 0 2.9l-.5.5c-.2.2-.5.2-.7 0l-3.4-3.4zm2.3 4.5c.2.2.2.5 0 .7L12.7 23.4c-.2.2-.4.3-.6.4l-5.7 2.4c-.3.1-.6 0-.7-.3-.1-.1-.1-.3 0-.4L8.1 20c.1-.2.3-.5.4-.6L19.2 8.6c.2-.2.5-.2.7 0l3.5 3.4zM11.5 22.7l-3.9 1.7 1.7-3.9c0-.1.1-.2.2-.2l2.3 2.3c-.1 0-.2.1-.3.1z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Blog</h4>
+              
+                <p class="c-menu-item-desc">Learn about Mozilla and the issues that matter to us.</p>
+              
+              </a>
+            </section>
+          </li>
+
+        </ul>
+        <p class="c-menu-category-link">
+          <a href="/en-US/about/" data-link-name="More About Mozilla" data-link-type="nav" data-link-position="topnav" data-link-group="who-we-are">More About Mozilla</a>
+        </p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close who we are -->
+              
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="https://labs.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" aria-haspopup="true" aria-controls="c-menu-panel-innovation">Innovation</a>
+  <div class="c-menu-panel" id="c-menu-panel-innovation">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-innovation">Close Innovation menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-two">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://hubs.mozilla.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-name="Mozilla Hubs" data-link-type="nav" data-link-position="topnav" data-link-group="innovation">
+                <img class="c-menu-item-icon" src="https://www.mozilla.org/media/img/nav/icons/icon-mozilla-hubs.68cdfe62681b.svg" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Mozilla Hubs</h4>
+                <p class="c-menu-item-desc">Gather in this interactive, online, multi-dimensional social space.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/developer/" data-link-name="Firefox Developer Edition" data-link-type="nav" data-link-position="topnav" data-link-group="innovation">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/logo.41d42822c8fb.svg" class="c-menu-item-icon" width="32" height="32" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Firefox Developer Edition</h4>
+                <p class="c-menu-item-desc">Get the Firefox browser built just for developers.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://developer.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-name="MDN Web Docs" data-link-type="nav" data-link-position="topnav" data-link-group="innovation">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M4 26.7c0 .7.6 1.3 1.3 1.3s1.3-.6 1.3-1.3V5.3C6.7 4.6 6.1 4 5.3 4S4 4.6 4 5.3v21.4zm10.7 0c0 .7.6 1.3 1.3 1.3.7 0 1.3-.6 1.3-1.3V8c0-.7-.6-1.3-1.3-1.3-.7 0-1.3.6-1.3 1.3v18.7zm-5.4 0c0 .7.6 1.3 1.3 1.3.7 0 1.3-.6 1.3-1.3V9.3c.1-.7-.5-1.3-1.2-1.3-.8 0-1.4.6-1.4 1.3v17.4zM26.7 28c-.6 0-1.1-.4-1.3-.9l-6-18.7c-.2-.7.2-1.4.9-1.6s1.4.1 1.7.8l6 18.7c.2.7-.2 1.5-.9 1.7h-.4z"></path></svg>
+                <h4 class="c-menu-item-title">MDN Web Docs</h4>
+                <p class="c-menu-item-desc">Check out the home for web developer resources.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-name="Common Voice" data-link-type="nav" data-link-position="topnav" data-link-group="innovation">
+                <img class="c-menu-item-icon" src="https://www.mozilla.org/media/img/nav/icons/icon-common-voice.127fa3f5dcb0.svg" alt="" loading="lazy">
+                <h4 class="c-menu-item-title">Common Voice</h4>
+                <p class="c-menu-item-desc">Donate your voice so the future of the web can hear everyone.</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close innovation -->
+            </ul>
+          </nav>
+        </div><!-- close .c-navigation-menu -->
+      </div><!-- close .c-navigation-items -->
+    </div><!-- close .c-navigation-container -->
+  </div><!-- close .c-navigation-l-content -->
+</div><!-- close .c-navigation -->
+    
+
+    
+
+    <div id="outer-wrapper">
+      
+<div class="mzp-l-content mzp-has-sidebar mzp-l-sidebar-left">
+  <article class="mzp-l-main" itemtype="http://schema.org/Article">
+    
+    <header>
+      
+      <img class="privacy-logo" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" alt="">
+      
+      <div class="privacy-title">
+        <h1 itemprop="name"><span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">Privacy Notice</span></h1>
+        <time datetime="2022-08-01" itemprop="dateModified">Effective August 1, 2022</time>
+      </div>
+
+      
+      <div class="privacy-lead-in">
+        <h2 id="at-mozilla-we-believe-that-privacy-is-fundamental-to-a-healthy-internet">At Mozilla, we believe that privacy is fundamental to a healthy internet.</h2>
+<p>That’s why we build Firefox, and all our products, to give you greater control over the information you share online and the information you share with us. We strive to collect only what we need to improve Firefox for everyone.</p>
+<p>In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla <a href="/privacy/">privacy policy</a> for how we receive, handle and share information we collect from Firefox.</p>
+
+      </div>
+      
+    </header>
+    <main class="privacy-body" itemprop="articleBody">
+      
+    
+      <section class="section2"><h2 id="firefox-by-default-shares-data-to">Firefox by default shares data to:</h2>
+<section class="section3"><h3 id="health-report">Improve performance and stability for users everywhere</h3>
+<ul>
+<li>
+<p><strong>Interaction data</strong>: Firefox sends data about your interactions with Firefox to us (such as number of open tabs and windows; number of webpages visited; number and type of installed Firefox Add-ons; and session length) and Firefox features offered by Mozilla or our partners (such as interaction with Firefox search features and search partner referrals).</p>
+</li>
+<li>
+<p><strong>Technical data</strong>: Firefox sends data about your Firefox version and language; device operating system and hardware configuration; memory, basic information about crashes and errors; outcome of automated processes like updates, safebrowsing, and activation to us.  When Firefox sends data to us, your IP address is temporarily collected as part of our server logs.</p>
+</li>
+</ul>
+<p id="telemetry">Read the telemetry documentation for <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">Desktop</a>, <a href="https://dictionary.telemetry.mozilla.org/apps/fenix">Android</a>, or <a href="https://dictionary.telemetry.mozilla.org/apps/firefox_ios">iOS</a> or learn how to opt-out of this data collection on <a href="https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox">Desktop</a> and <a href="https://support.mozilla.org/kb/send-usage-data-firefox-mobile-browsers">Mobile</a>.</p>
+</section><section class="section3"><h3 id="defaultsearch">Search</h3>
+<p>You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab. We receive data about how you engage with search in Firefox and the number of searches you request from our search partners. </p>
+<ul>
+<li>
+<p><strong>Location data</strong>: When you first use Firefox, it uses your IP address to set your default search provider based on your country. <a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">Learn more</a>.</p>
+</li>
+<li>
+<p><strong>Search queries</strong>: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience if your selected search provider supports search suggestions. <a href="https://support.mozilla.org/kb/search-suggestions-firefox">Learn more</a>, including how to disable this feature. Links to our default search providers are:</p>
+</li>
+<li>
+<p><a href="https://policies.google.com/privacy">Google</a></p>
+</li>
+<li>
+<p><a href="https://privacy.microsoft.com/privacystatement">Microsoft (Bing)</a></p>
+</li>
+<li>
+<p>If you enable "Improve the Firefox Suggest Experience," we and our partners may also receive your search queries. <a href="#searches">Learn more below</a>. </p>
+</li>
+</ul>
+</section><section class="section3"><h3 id="recommend-relevant-content">Recommend relevant content</h3>
+<p>Firefox displays content, such as Add-on Recommendations, Top Sites (websites suggested by Mozilla for first-time Firefox users), and Pocket Recommendations (which is part of the Mozilla family).</p>
+<ul>
+<li>
+<p><strong>Location data</strong>: Firefox uses your IP address to suggest relevant content based on your country and state.</p>
+</li>
+<li>
+<p><strong>Technical &amp; Interaction data</strong>: Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked.</p>
+</li>
+<li>
+<p><strong>Pocket Recommendations</strong>: We recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and neither Mozilla nor Pocket receives a copy of your browsing history. To help you see relevant Pocket Recommendations based on your location, Firefox shares your language and country location with Pocket.</p>
+<p>Mozilla and Pocket receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Adzerk so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.</p>
+</li>
+<li>
+<p><strong>Top Sites</strong>: When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you're in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.</p>
+</li>
+<li>
+<p><strong>Add-on and Feature Recommendations</strong>: We recommend Add-ons in two places: the Manage Your Extensions Page (about:addons) and the Awesome Bar, where you search or type in URLs. We may also recommend Firefox Features in the Awesome Bar. We base the recommendations in about:addons on a cookie. We base the recommendations in the Awesome Bar on your interaction with Firefox. Mozilla does not receive your browser history. The process happens locally in your own computer’s copy of Firefox. Learn More about <a href="https://support.mozilla.org/kb/extension-recommendations">Awesome Bar recommendations</a> or <a href="https://support.mozilla.org/kb/personalized-extension-recommendations">Extensions Page recommendations</a>.</p>
+</li>
+</ul>
+</section><section class="section3"><h3 id="security">Improve security for users everywhere</h3>
+<p><strong>Webpage data to DNS Resolver service</strong>: For some Firefox users, Firefox routes DNS requests to a resolver service that has agreed to Mozilla’s <a href="https://wiki.mozilla.org/Security/DOH-resolver-policy">strict privacy standards for resolvers</a>. This provides added protection from privacy leaks to local networks and also from certain DNS security attacks. System logs of your DNS requests are deleted from the service within 24 hours and are only used for the purpose of DNS resolution.  <a href="https://support.mozilla.org/kb/firefox-dns-over-https#w_switching-providers">Learn more</a> or see our default DNS resolver service providers below:</p>
+<ul>
+<li><a href="https://developers.cloudflare.com/1.1.1.1/privacy/firefox/"><strong>Cloudflare</strong></a></li>
+<li><a href="https://nextdns.io/privacy"><strong>NextDNS</strong></a></li>
+<li><a href="https://www.xfinity.com/privacy/policy/dns"><strong>Comcast</strong></a></li>
+<li><a href="https://www.cira.ca/cybersecurity-services/canadian-shield/privacy"><strong>CIRA</strong></a></li>
+<li><a href="https://www.shaw.ca/dns-statement"><strong>Shaw</strong></a></li>
+</ul>
+<p id="auto-updates"><strong>Technical data for updates</strong>: Desktop versions of Firefox check for browser updates by persistently connecting to Mozilla servers. Your Firefox version, language, and device operating system are used to apply the correct updates. Mobile versions of Firefox may connect to another service if you used one to download and install Firefox. <a href="https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking">Learn more</a>.</p>
+<p><strong>Technical data for add-ons blocklist</strong>: Firefox for Desktop and Android periodically connect to Mozilla to protect you and others from malicious add-ons.  Your Firefox version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist. <a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">Learn more</a>.</p>
+<p><strong>Webpage and technical data to Google’s SafeBrowsing service</strong>: To help protect you from malicious downloads, Firefox sends basic information about unrecognized downloads to Google's SafeBrowsing Service, including the filename and the URL it was downloaded from.<a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">Learn more</a> or read <a href="https://www.google.com/policies/privacy/">Google’s Privacy Policy</a>. Opting out prevents Firefox from warning you of potentially illegitimate or malicious websites or downloaded files.</p>
+<p><strong>Webpage and technical data to Certificate Authorities</strong>: When you visit a secure website (usually identified with a URL starting with "HTTPS"), Firefox validates the website's <a href="https://support.mozilla.org/kb/secure-website-certificate">certificate</a>. This may involve Firefox sending certain information about the website to the Certificate Authority identified by that website. Opting out increases the risk of your private information being intercepted. <a href="https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab">Learn more</a>.</p>
+</section><section class="section3"><h3 id="crash-reporter">Crash reports</h3>
+<p>By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.</p>
+<ul>
+<li>
+<p><strong>Sensitive data</strong>:  Crash reports include a ‘dump file’ of Firefox’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.</p>
+</li>
+<li>
+<p><strong>Webpage data</strong>:  Crash reports include the active URL at time of crash.</p>
+</li>
+<li>
+<p><strong>Technical data</strong>:  Crash reports include data on why Firefox crashed and the state of device memory and execution during the crash.</p>
+</li>
+</ul>
+<p>Read the full documentation <a href="https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html">here</a>.</p>
+</section><section class="section3"><h3 id="measure-and-support-our-marketing">Measure and support our marketing</h3>
+<ul>
+<li>
+<p id="referraltracking"><strong>Campaign and Referral Data</strong>: This helps Mozilla understand the effectiveness of our marketing campaigns.</p>
+<p><em>On Desktop</em>: Firefox by default sends Mozilla HTTP data that may be included with Firefox’s installer.  This enables us to determine the website domain or advertising campaign (if any) that referred you to our download page. Read the <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution">documentation</a> or <a href="https://support.mozilla.org/kb/desktop-privacy">opt-out</a> before installation.</p>
+<p id="thirdparty"><em>On Mobile</em>: Firefox for iOS and Android by default send mobile campaign data to Adjust, our analytics vendor, which has its own <a href="https://www.adjust.com/terms/privacy-policy/">privacy policy</a>.  Mobile campaign data includes a Google advertising ID or Android ID, IP address, timestamp, country, language/locale, operating system, and app version. Read the <a href="https://dictionary.telemetry.mozilla.org/apps/fenix?itemType=metrics&amp;page=1&amp;search=adjust">documentation</a>.</p>
+</li>
+</ul>
+</section><section class="section3"><h3 id="searches">Firefox Suggest and Top Pick</h3>
+<p>Mozilla is developing a new feature that helps deliver you better information with less effort. It’s called Firefox Suggest and an early version of it is currently available to users in the United States. By default, Firefox Suggest shows you recommended and sponsored content based on local data stored on your own computer, such as websites from your browsing history, bookmarks and open tabs. </p>
+<ul>
+<li>
+<p><strong>Sites you visit</strong>: Firefox sends Mozilla which suggestions you click or dismiss and Mozilla may share that data with its <a href="https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners">partners</a>.</p>
+</li>
+<li>
+<p><strong>Location data</strong>: Firefox temporarily sends Mozilla your IP address which we use to suggest content based on your country, state, and city. Mozilla may share location information with our partners, but partners will not receive your IP address. </p>
+</li>
+<li>
+<p><strong>Technical &amp; interaction data</strong>: Firefox sends Mozilla data such as the number of times Firefox suggests or displays content and your clicks on that content, as well as basic data about your interactions with Firefox Suggest. Mozilla shares information with our <a href="https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners">partners</a> about how many times suggestions are shown and clicked for verification and feature improvement. </p>
+</li>
+</ul>
+<p>If you choose to enable "Improve the Firefox Suggest Experience," Firefox shares the following information to improve your browsing experience and to improve the service:</p>
+<ul>
+<li><strong>Searches</strong>: Firefox sends Mozilla what you type into the search bar and Mozilla may share that data with its <a href="https://support.mozilla.org/kb/firefox-suggest#w_who-are-mozillas-partners">partners</a>. </li>
+</ul>
+<p>We take measures to limit our and our partners’ ability to identify you. <a href="https://support.mozilla.org/kb/firefox-suggest?as=u&amp;utm_source=inproduc">Learn more</a>.</p>
+<hr/>
+</section></section>
+    
+      <section class="section2"><h2 id="optional-features">If you use these features, Firefox will share data to provide you functionality and help us improve our products and services:</h2>
+<section class="section3"><h3 id="firefox-accounts">Firefox Accounts</h3>
+<ul>
+<li>
+<p><strong>Registration data</strong>: Mozilla receives your email address and a hash of your password when you create a Firefox Account or sign-up to Join Firefox. You can choose to include a display name or profile image. Your email address is sent to our email vendor, Acoustic, which has its own <a href="https://acoustic.com/privacy-notice/">privacy policy</a>.</p>
+</li>
+<li>
+<p><strong>Location data</strong>: For security purposes, we store the IP addresses used to access your Firefox Account in order to approximate your city and country. We use this data to send you email alerts if we detect suspicious activity, such as account logins from other locations.</p>
+</li>
+<li>
+<p><strong>Interaction data</strong>: We receive data such as your visits to the Firefox Accounts website, dashboards and menu preferences, what products and services you use in connection with your Firefox Account, and your interactions with our emails and SMS messages. We use this to understand your use of our products and services and to send you more useful Firefox Account Tips and in-product messages.</p>
+</li>
+<li>
+<p><strong>Technical data</strong>: To display which devices are synced to your Firefox Account and for security functionality, we store your device operating system, browser and version, timestamp, locale, and the same information for devices connected to your account. If you use your Firefox Account to log into other websites or services (such as AMO or Pocket), we receive the timestamp of those log-ins.</p>
+</li>
+</ul>
+<p>Read the full documentation or learn more, including how to manage your Firefox Account data or our data practices for <a href="/privacy/websites/">websites and email</a>.  You can also read the privacy notices for our Firefox Account connected services, which are:</p>
+<ul>
+<li><a href="/privacy/firefox-monitor">Firefox Monitor</a></li>
+<li><a href="https://addons.mozilla.org/firefox/addon/notes-by-firefox/">Firefox Notes</a></li>
+<li><a href="/privacy/firefox/#sync">Firefox Sync</a></li>
+<li><a href="/privacy/firefox-relay/">Firefox Relay</a></li>
+<li><a href="/privacy/mozilla-vpn/">Mozilla VPN</a></li>
+</ul>
+</section><section class="section3"><h3 id="sync">Sync</h3>
+<ul>
+<li>
+<p><strong>Synced data</strong>: If you enable Sync, Mozilla receives the information that you sync across devices in encrypted form. This may include Firefox tabs, add-ons, passwords, payment autofill information, bookmarks, history, and preferences.  Deleting your Firefox Account will delete related Firefox Sync content. You can also read the <a href="https://moz-services-docs.readthedocs.io/en/latest/sync/">documentation</a>.</p>
+</li>
+<li>
+<p><strong>Technical and Interaction data</strong>: If you enable sync, Firefox will periodically send basic information using Telemetry about the most recent attempt to sync your data, such as when it took place, whether it succeeded or failed, and what type of device is attempting to sync. You can also read the <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html">documentation</a>.</p>
+</li>
+</ul>
+<p><a href="https://support.mozilla.org/kb/how-do-i-set-sync-my-computer">Learn more</a>, including how to enable or disable sync.</p>
+</section><section class="section3"><h3 id="location-services">Location</h3>
+<ul>
+<li><strong>Location data to Google's geolocation service</strong>: Firefox always asks before determining and sharing your location with a requesting website (for example, if a map website needs your location to provide directions).  To determine location, Firefox may use your operating system’s geolocation features, Wi-fi networks, cell phone towers, or IP address, and may send this data to Google's geolocation service, which has its own <a href="https://www.google.com/privacy/lsf.html">privacy policy</a>.</li>
+</ul>
+<p><a href="/firefox/geolocation/">Learn more</a>.</p>
+</section><section class="section3"><h3 id="push-notifications">Website notifications</h3>
+<ul>
+<li>
+<p><strong>Connection data</strong>: If you allow a website to send you notifications, Firefox connects with Mozilla and uses your IP address to relay the message.  Mozilla cannot access the content of messages.</p>
+</li>
+<li>
+<p><strong>Interaction data</strong>: We receive aggregate data such as the number of Firefox subscriptions and unsubscriptions to website notifications, number of messages sent, timestamps, and senders (which may include specific website providers).</p>
+</li>
+</ul>
+<p>Read the <a href="https://mozilla-push-service.readthedocs.io/en/latest/">full documentation</a> or <a href="https://support.mozilla.org/kb/push-notifications-firefox">learn more</a>, including how to revoke website notifications.</p>
+</section><section class="section3"><h3 id="addons">Add-ons</h3>
+<p>You can install Add-ons from addons.mozilla.org (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar.</p>
+<ul>
+<li>
+<p><strong>Search queries</strong>: Search queries in the Add-on Manager are sent to Mozilla to provide you with suggested Add-ons.</p>
+</li>
+<li>
+<p><strong>Interaction data</strong>:  We receive aggregate data about visits to the AMO website and the Add-ons Manager in Firefox, as well as interactions with content on those pages. Read about data practices on <a href="/privacy/websites/">Mozilla websites</a>.</p>
+</li>
+<li>
+<p><strong>Technical data for updates</strong>: Firefox periodically connects with Mozilla to install updates to Add-ons.  Your installed Add-ons, Firefox version, language, and device operating system are used to apply the correct updates.</p>
+</li>
+</ul>
+<hr/>
+</section></section>
+    
+
+    </main>
+    
+    <footer class="privacy-footnote">
+      <div>
+          <h3 id="footnote">Footnote</h3>
+<p id="pre-release">This privacy notice is for the most recent general release version of Firefox distributed by Mozilla.  If you obtain Firefox elsewhere, or are running an older version, your copy of Firefox may contain different privacy characteristics.</p>
+<p>Mozilla’s pre-release versions of Firefox (which are distributed through channels such as Nightly, Beta, Developer Edition and TestFlight) are development platforms frequently updated with experimental features and studies.  In addition to the data collection described in this Privacy Notice, these versions by default may send certain types of web activity and crash data to Mozilla and in some cases to our partners.  Any data collection or sharing adheres to our <a href="https://wiki.mozilla.org/Firefox/Data_Collection">Firefox data collection policy</a> and we will always be transparent and provide you with controls.</p>
+
+      </div>
+    </footer>
+    
+    
+  </article>
+  <aside class="mzp-l-sidebar">
+    <nav class="mzp-c-sidemenu">
+    <section class="mzp-c-sidemenu-summary mzp-js-toggle" aria-controls="sidebar-menu">
+      <h3 class="mzp-c-sidemenu-label">Menu</h3>
+      <ul>
+        <li>Mozilla Privacy</li>
+        
+          
+            
+          
+            
+          
+            
+          
+            
+              <li class="mzp-is-current">Firefox Browser</li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+      </ul>
+    </section>
+    <section class="mzp-c-sidemenu-main">
+      
+
+        <h4 class="mzp-c-sidemenu-title ">
+          <a href="/en-US/privacy/">Mozilla Privacy</a>
+        </h4>
+
+        <ul>
+        
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/websites/">Mozilla Websites, Communications &amp; Cookies</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/subscription-services/">Mozilla Subscription Services</a>
+          </li>
+          
+        
+          
+          <li class="mzp-is-current">
+            <a href="/en-US/privacy/firefox/">Firefox Browser</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/betterweb/">Firefox Better Web</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/firefox-fire-tv/">Firefox for Fire TV</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/firefox-reality/">Firefox Reality</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/firefox-focus/">Firefox Focus</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/firefox-private-network/">Firefox Private Network</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/thunderbird/">Thunderbird</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/mdn-plus/">MDN Plus</a>
+          </li>
+          
+        
+          
+          <li >
+            <a href="/en-US/privacy/hubs/">Mozilla Hubs</a>
+          </li>
+          
+        
+        </ul>
+      
+    </section>
+  </nav>
+    
+  </aside>
+</div>
+
+
+      
+  
+
+
+
+<footer class="mzp-c-footer " id="colophon">
+  <div class="mzp-l-content">
+    <nav class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-primary-logo">
+        <a href="/en-US/" data-link-type="footer" data-link-name="Mozilla">Mozilla</a>
+      </div>
+      <div class="mzp-c-footer-sections">
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+            Company
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/en-US/about/manifesto/" data-link-type="footer" data-link-name="Mozilla Manifesto">Mozilla Manifesto</a></li>
+            <li><a href="https://blog.mozilla.org/press/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=company" data-link-type="footer" data-link-name="Press Center">Press Center</a></li>
+          
+            <li><a href="https://blog.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=company" data-link-type="footer" data-link-name="Corporate Blog">Corporate Blog</a></li>
+          
+            <li><a href="/en-US/careers/" data-link-type="footer" data-link-name="Careers">Careers</a></li>
+            <li><a href="/en-US/contact/" data-link-type="footer" data-link-name="Contact">Contact</a></li>
+            <li><a href="https://foundation.mozilla.org/?form=donate&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&amp;utm_content=company" data-link-type="footer" data-link-name="Donate">Donate</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+            Resources
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/en-US/privacy/" data-link-type="footer" data-link-name="Privacy Hub">Privacy Hub</a></li>
+          
+            <li><a href="/en-US/firefox/browsers/compare/" data-link-type="footer" data-link-name="Browser Comparison">Browser Comparison</a></li>
+          
+            <li><a href="https://mozilla.design/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=resources" data-link-type="footer" data-link-name="Brand Standards">Brand Standards</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+            Support
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://support.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=support" data-link-type="footer" data-link-name="Product Help">Product Help</a></li>
+            <li><a href="https://bugzilla.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=support" data-link-type="footer" data-link-name="File a Bug">File a Bug</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+            Developers
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/en-US/firefox/developer/" data-link-type="footer" data-link-name="Firefox Developer Edition">Developer Edition</a></li>
+            <li><a href="/en-US/firefox/channel/desktop/#beta" data-link-type="footer" data-link-name="Firefox Beta">Beta</a></li>
+            <li><a href="/en-US/firefox/channel/android/#beta" data-link-type="footer" data-link-name="Firefox Beta for Android">Beta for Android</a></li>
+            <li><a href="/en-US/firefox/channel/desktop/#nightly" data-link-type="footer" data-link-name="Firefox Nightly">Nightly</a></li>
+            <li><a href="/en-US/firefox/channel/android/#nightly" data-link-type="footer" data-link-name="Firefox Nightly for Android">Nightly for Android</a></li>
+            <li><a href="/en-US/firefox/enterprise/" data-link-type="footer" data-link-name="Firefox for Enterprise">Enterprise</a></li>
+            <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=developers" rel="external" data-link-type="footer" data-link-name="Tools">Tools</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading-social">Follow @Mozilla</h5>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/mozilla" data-link-type="footer" data-link-name="Twitter (@mozilla)">Twitter<span> (@mozilla)</span></a></li>
+            <li><a class="mastodon" href="https://mastodon.social/@Mozilla" rel="me" data-link-type="footer" data-link-name="Mastodon (@mozilla)">Mastodon<span> (@mozilla)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/mozilla/" data-link-type="footer" data-link-name="Instagram (@mozilla)">Instagram<span> (@mozilla)</span></a></li>
+            <li><a class="linkedin" href="https://www.linkedin.com/company/mozilla-corporation/" data-link-type="footer" data-link-name="LinkedIn (@mozilla)">LinkedIn<span> (@mozilla)</span></a></li>
+            <li><a class="tiktok" href="https://www.tiktok.com/@mozilla" data-link-type="footer" data-link-name="TikTok (@mozilla)">TikTok<span> (@mozilla)</span></a></li>
+            <li><a class="spotify" href="https://open.spotify.com/show/0vT7LJMeVDxyQ2ZamHKu08?si=_uDRD6bRR_6M5YZyISGXgA" data-link-type="footer" data-link-name="Spotify (@mozilla)">Spotify<span> (@mozilla)</span></a></li>
+          </ul>
+
+          <h5 class="mzp-c-footer-heading-social">Follow @Firefox</h5>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/firefox" data-link-type="footer" data-link-name="Twitter (@firefox)">Twitter<span> (@firefox)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/firefox/" data-link-type="footer" data-link-name="Instagram (@firefox)">Instagram<span> (@firefox)</span></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/user/firefoxchannel" data-link-type="footer" data-link-name="YouTube (@firefoxchannel)">YouTube<span> (@firefoxchannel)</span></a></li>
+          </ul>
+        </section>
+      </div>
+    </nav>
+    <nav class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-language">
+       
+
+
+  <form id="lang_form" class="mzp-c-language-switcher" method="get" action="#">
+    <a class="mzp-c-language-switcher-link" href="/en-US/locales/">Language</a>
+    <label for="page-language-select">Language</label>
+    <select id="page-language-select" class="mzp-js-language-switcher-select" name="lang" dir="ltr">
+      
+        <option lang="cs" value="cs">Čeština</option>
+      
+        <option lang="de" value="de">Deutsch</option>
+      
+        <option lang="en-US" value="en-US" selected>English</option>
+      
+        <option lang="es-ES" value="es-ES">Español (de España)</option>
+      
+        <option lang="fr" value="fr">Français</option>
+      
+        <option lang="hu" value="hu">magyar</option>
+      
+        <option lang="id" value="id">Bahasa Indonesia</option>
+      
+        <option lang="it" value="it">Italiano</option>
+      
+        <option lang="ja" value="ja">日本語</option>
+      
+        <option lang="nl" value="nl">Nederlands</option>
+      
+        <option lang="pl" value="pl">Polski</option>
+      
+        <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+      
+        <option lang="ru" value="ru">Русский</option>
+      
+        <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+      
+    </select>
+    <button type="submit">Go</button>
+  </form>
+
+      </div>
+      <div class="mzp-c-footer-legal">
+        <ul class="mzp-c-footer-terms">
+          <li><a href="/en-US/privacy/websites/" data-link-type="footer" data-link-name="Privacy">Website Privacy Notice</a></li>
+          <li><a href="/en-US/privacy/websites/#user-choices" data-link-type="footer" data-link-name="Cookies">Cookies</a></li>
+          <li><a href="/en-US/about/legal/" data-link-type="footer" data-link-name="Legal">Legal</a></li>
+          <li><a href="/en-US/about/governance/policies/participation/" data-link-type="footer" data-link-name="Community Participation Guidelines">Community Participation Guidelines</a></li>
+          
+            <li><a href="/en-US/about/this-site/" data-link-type="footer" data-link-name="About this site">About this site</a></li>
+          
+        </ul>
+        <p class="mzp-c-footer-license" rel="license">
+          
+          
+          Visit <a href="/en-US/">Mozilla Corporation’s</a> not-for-profit parent, the <a href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer" rel="external noopener">Mozilla Foundation</a>.<br>
+          Portions of this content are ©1998–2023 by individual mozilla.org contributors. Content available under a <a rel="license" href="/en-US/foundation/licensing/website-content/">Creative Commons license</a>.
+        </p>
+      </div>
+    </nav>
+  </div>
+</footer>
+
+
+      
+
+      
+      
+    </div>
+
+    
+    
+      
+        <!--[if !IE]><!-->
+          <script src="https://www.mozilla.org/media/js/sentry.40e512a52bf9.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    
+      <!--[if !IE]><!-->
+        <script src="https://www.mozilla.org/media/js/lib.ef56f3c04495.js"></script>
+        <script src="https://www.mozilla.org/media/js/ui.884c57ada286.js"></script>
+        <script src="https://www.mozilla.org/media/js/fxa.b7f1e714b0b0.js"></script>
+        <script src="https://www.mozilla.org/media/js/data.c979213b5942.js"></script>
+      <!--<![endif]-->
+    
+
+    
+    
+
+    <!--[if !IE]><!-->
+    
+
+    
+  
+  <script src="https://www.mozilla.org/media/js/privacy_protocol.6b8b957954b4.js"></script>
+
+  <script src="https://www.mozilla.org/media/js/privacy_firefox.855e3095ef61.js"></script>
+
+
+    
+    
+    
+
+    
+    <!--<![endif]-->
+  </body>
+</html>8۴��`      c��c��EM��c��(   X    O^partitionKey=%28https%2Cmozilla.org%29,:https://www.mozilla.org/en-US/privacy/firefox/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/2 200 OK
+server: nginx
+content-length: 70971
+x-frame-options: DENY
+content-security-policy: connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com region1.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net o1069899.sentry.io o1069899.ingest.sentry.io https://accounts.firefox.com/ stage.cjms.nonprod.cloudops.mozgcp.net cjms.services.mozilla.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-3.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' app.convert.com; child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; font-src 'self'; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org data: mozilla.org www.googletagmanager.com www.google-analytics.com adservice.google.com adservice.google.de adservice.google.dk creativecommons.org cdn-3.convertexperiments.com logs.convertexperiments.com images.ctfassets.net
+x-clacks-overhead: GNU Terry Pratchett
+x-backend-server: bedrock-58ddccff5b-cpc66.gcp-eu-west1
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+via: 1.1 google
+date: Sun, 26 Feb 2023 17:24:32 GMT
+age: 331
+etag: "be359959bf3f6a43b691c09daa1ae838"
+content-type: text/html; charset=utf-8
+cache-control: max-age=600,public
+x-cache: hit
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+ original-response-headers server: nginx
+content-length: 70971
+x-frame-options: DENY
+content-security-policy: connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com region1.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net o1069899.sentry.io o1069899.ingest.sentry.io https://accounts.firefox.com/ stage.cjms.nonprod.cloudops.mozgcp.net cjms.services.mozilla.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-3.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' app.convert.com; child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; font-src 'self'; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org data: mozilla.org www.googletagmanager.com www.google-analytics.com adservice.google.com adservice.google.de adservice.google.dk creativecommons.org cdn-3.convertexperiments.com logs.convertexperiments.com images.ctfassets.net
+x-clacks-overhead: GNU Terry Pratchett
+x-backend-server: bedrock-58ddccff5b-cpc66.gcp-eu-west1
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+via: 1.1 google
+date: Sun, 26 Feb 2023 17:24:32 GMT
+age: 331
+etag: "be359959bf3f6a43b691c09daa1ae838"
+content-type: text/html; charset=utf-8
+cache-control: max-age=600,public
+x-cache: hit
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0 net-response-time-onstart 191 net-response-time-onstop 605  ;

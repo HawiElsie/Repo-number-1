@@ -1,0 +1,14 @@
+[Trace 06:34:56.215] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/hawi/README.md
+[Trace 06:34:56.217] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/hawi/README.md
+[Trace 06:34:56.220] Server: connection.languages.diagnostics.on: file:///home/hawi/README.md
+[Trace 06:34:56.226] Server: connection.languages.diagnostics.on: file:///home/hawi/README.md
+[Trace 06:34:56.456] DocumentSymbolProvider: provideDocumentSymbols — file:///home/hawi/README.md 1
+[Debug 06:34:56.457] LinkProvider: compute - file:///home/hawi/README.md
+[Debug 06:34:56.626] TableOfContentsProvider: create - file:///home/hawi/README.md
+[Debug 06:34:56.663] MdFoldingProvider: provideFoldingRanges — file:///home/hawi/README.md 1
+[Trace 06:35:46.561] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/hawi/README.md
+[Trace 06:35:46.562] Server: connection.languages.diagnostics.on: file:///home/hawi/README.md
+[Debug 06:35:46.755] MdFoldingProvider: provideFoldingRanges — file:///home/hawi/README.md 2
+[Debug 06:35:46.755] TableOfContentsProvider: create - file:///home/hawi/README.md
+[Trace 06:35:46.905] DocumentSymbolProvider: provideDocumentSymbols — file:///home/hawi/README.md 2
+[Debug 06:35:46.906] LinkProvider: compute - file:///home/hawi/README.md

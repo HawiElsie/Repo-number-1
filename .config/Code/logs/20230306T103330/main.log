@@ -1,0 +1,11 @@
+2023-03-06 10:33:32.017 [info] update#setState idle
+2023-03-06 10:33:41.519 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-06 10:33:41.534 [info] [UtilityProcess id: 1, type: extensionHost, pid: 17671]: successfully created
+2023-03-06 10:34:02.064 [info] update#setState checking for updates
+2023-03-06 10:34:02.547 [info] update#setState idle
+2023-03-06 10:34:04.351 [info] [UtilityProcess id: 1, type: extensionHost, pid: 17671]: enabling inspect port
+2023-03-06 10:34:07.089 [info] [UtilityProcess id: 1, type: extensionHost, pid: 17671]: waiting to exit...
+2023-03-06 10:34:07.487 [info] [UtilityProcess id: 1, type: extensionHost, pid: 17671]: received exit event with code 0
+2023-03-06 10:34:07.488 [info] Extension host with pid 17671 exited with code: 0, signal: unknown.
+2023-03-06 10:34:10.132 [warning] [storage main] detected slow close() operation: Time: 3042ms, DB size: 151552b, Large Keys: iconThemeData:90030, colorThemeData:9922, workbench.activity.placeholderViewlets:3834, memento/experiment.service.memento:3427, __$__targetStorageMarker:1997
+2023-03-06 10:34:10.175 [warning] [storage main] detected slow close() operation: Time: 3086ms, DB size: 24576b, Large Keys: workbench.view.extensions.state:1973, __$__targetStorageMarker:1093, workbench.view.debug.state:536, terminal.integrated.environmentVariableCollections:513, workbench.panel.placeholderPanels:240

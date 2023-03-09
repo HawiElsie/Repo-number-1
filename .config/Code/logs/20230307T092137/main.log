@@ -1,0 +1,9 @@
+2023-03-07 09:21:39.621 [info] update#setState idle
+2023-03-07 09:21:44.654 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-07 09:21:44.682 [info] [UtilityProcess id: 1, type: extensionHost, pid: 12670]: successfully created
+2023-03-07 09:22:09.625 [info] update#setState checking for updates
+2023-03-07 09:22:09.772 [info] update#setState idle
+2023-03-07 09:25:03.204 [info] [UtilityProcess id: 1, type: extensionHost, pid: 12670]: received exit event with code 0
+2023-03-07 09:25:03.205 [info] Extension host with pid 12670 exited with code: 0, signal: unknown.
+2023-03-07 09:25:07.402 [warning] [storage main] detected slow close() operation: Time: 2864ms, DB size: 151552b, Large Keys: iconThemeData:90030, colorThemeData:9922, memento/experiment.service.memento:3427, workbench.activity.placeholderViewlets:2254, __$__targetStorageMarker:2141
+2023-03-07 09:25:07.567 [warning] [storage main] detected slow close() operation: Time: 3029ms, DB size: 28672b, Large Keys: workbench.view.extensions.state:1952, __$__targetStorageMarker:1272, memento/workbench.parts.editor:704, workbench.view.debug.state:528, terminal.integrated.environmentVariableCollections:513

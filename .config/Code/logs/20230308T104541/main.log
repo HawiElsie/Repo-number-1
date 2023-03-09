@@ -1,0 +1,29 @@
+2023-03-08 10:45:42.110 [info] update#setState idle
+2023-03-08 10:45:47.122 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-08 10:45:47.146 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: successfully created
+2023-03-08 10:46:12.119 [info] update#setState checking for updates
+2023-03-08 10:46:12.272 [info] update#setState idle
+2023-03-08 11:46:12.234 [info] update#setState checking for updates
+2023-03-08 11:46:13.319 [info] update#setState idle
+2023-03-08 12:46:12.584 [info] update#setState checking for updates
+2023-03-08 12:46:13.164 [info] update#setState idle
+2023-03-08 13:46:12.600 [info] update#setState checking for updates
+2023-03-08 13:46:13.221 [info] update#setState idle
+2023-03-08 14:46:12.677 [info] update#setState checking for updates
+2023-03-08 14:46:13.406 [info] update#setState idle
+2023-03-08 15:46:12.733 [info] update#setState checking for updates
+2023-03-08 15:46:13.443 [info] update#setState idle
+2023-03-08 16:46:12.868 [info] update#setState checking for updates
+2023-03-08 16:46:13.805 [info] update#setState idle
+2023-03-08 17:46:13.041 [info] update#setState checking for updates
+2023-03-08 17:46:13.695 [info] update#setState idle
+2023-03-08 17:49:01.957 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: enabling inspect port
+2023-03-08 17:49:02.368 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: enabling inspect port
+2023-03-08 17:49:05.664 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: waiting to exit...
+2023-03-08 17:49:10.609 [warning] [storage main] detected slow close() operation: Time: 4802ms, DB size: 20480b, Large Keys: __$__targetStorageMarker:979, workbench.view.debug.state:528, terminal.integrated.environmentVariableCollections:513, memento/workbench.parts.editor:309, workbench.panel.placeholderPanels:240
+2023-03-08 17:49:10.666 [warning] [storage main] detected slow close() operation: Time: 4995ms, DB size: 151552b, Large Keys: iconThemeData:90030, colorThemeData:9922, memento/experiment.service.memento:3427, workbench.activity.placeholderViewlets:2254, __$__targetStorageMarker:2141
+2023-03-08 17:49:11.858 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: did not exit within 6000ms, will kill it now...
+2023-03-08 17:49:11.858 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: attempting to kill the process...
+2023-03-08 17:49:11.878 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: successfully killed the process
+2023-03-08 17:49:11.931 [info] [UtilityProcess id: 1, type: extensionHost, pid: 10356]: received exit event with code 0
+2023-03-08 17:49:11.931 [info] Extension host with pid 10356 exited with code: 0, signal: unknown.

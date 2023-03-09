@@ -1,0 +1,69 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP Laptop 15-bs1xx",
+    "Family": "103C_5335KV HP Notebook"
+  },
+  "BIOS": {
+    "Vendor": "Insyde",
+    "Version": "F.65"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1616"
+    }
+  ],
+  "RAM": 3.9,
+  "Disks": [
+    1000.2
+  ],
+  "Partitions": [
+    959.8,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1360x768",
+      "Frequency": "59.80"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Nairobi",
+  "Install": {
+    "Media": "Ubuntu 22.04.2 LTS \"Jammy Jellyfish\" - Release amd64 (20230223)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "37": "console_setup",
+      "53": "console_setup",
+      "183": "console_setup",
+      "192": "wireless",
+      "272": "prepare",
+      "744": "partman",
+      "792": "start_install",
+      "818": "timezone",
+      "830": "usersetup",
+      "966": "user_done",
+      "2154": "done"
+    }
+  }
+}
